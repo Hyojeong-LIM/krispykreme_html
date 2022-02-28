@@ -435,7 +435,7 @@
 #wrap #main #section3 .container .sns .sec-container .sec-container-top h2{width:20px;height:20px;}
 #wrap #main #section3 .container .sns .sec-container .sec-container-top h2 > a{display:block;width:20px;height:20px;}
 #wrap #main #section3 .container .sns .sec-container .sec-container-top h2 > a > i{color:#00704a;font-size:20px;line-height:16px;}
-#wrap #main #section3 .container .sns .sec-container .sec-container-top h3{color:#232323;font-size:19px;font-family:'Roboto';line-height:20px;}
+#wrap #main #section3 .container .sns .sec-container .sec-container-top h3{color:#232323;font-size:19px;font-family:'Roboto';line-height:20px;font-weight:500;}
 #wrap #main #section3 .container .sns .sec-container .sec-container-top h3 > a{display:inline-block;}
 
 
