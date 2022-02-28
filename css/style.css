@@ -432,17 +432,19 @@
 #wrap #main #section3 .container .sns{width:400px;height:100%;float:left;}
 #wrap #main #section3 .container .sns .sec-container{width:100%;height:187px;}
 #wrap #main #section3 .container .sns .sec-container .sec-container-top{width:100%;height:32px;display:flex;margin:0 auto;}
-#wrap #main #section3 .container .sns .sec-container .sec-container-top h2{width:105px;height:20px;}
-#wrap #main #section3 .container .sns .sec-container .sec-container-top h2 img{width:auto;height:18px;}
-#wrap #main #section3 .container .sns .sec-container .sec-container-top span{display:inline-block;margin:0 10px;}
-#wrap #main #section3 .container .sns .sec-container .sec-container-top span i{display:block;width:1.5px;height:13px;background:#777;margin-top:8px;}
-#wrap #main #section3 .container .sns .sec-container .sec-container-top h3{width:110px;height:20px;}
-#wrap #main #section3 .container .sns .sec-container .sec-container-top h3 img{width:auto;height:18px;}
+#wrap #main #section3 .container .sns .sec-container .sec-container-top h2{width:20px;height:20px;}
+#wrap #main #section3 .container .sns .sec-container .sec-container-top h2 > a{display:block;width:20px;height:20px;}
+#wrap #main #section3 .container .sns .sec-container .sec-container-top h2 > a > i{color:#00704a;font-size:20px;line-height:16px;}
+#wrap #main #section3 .container .sns .sec-container .sec-container-top h3{color:#232323;font-size:19px;font-family:'Roboto';line-height:20px;}
+#wrap #main #section3 .container .sns .sec-container .sec-container-top h3 > a{display:inline-block;}
+
 
 #wrap #main #section3 .container .sns .sec-container .sec-container-bottom{width:100%;height:155px;}
 #wrap #main #section3 .container .sns .sec-container .sec-container-bottom .gap{width:100%;}
-#wrap #main #section3 .container .sns .sec-container .sec-container-bottom .gap a{display:block;width:100%;}
-#wrap #main #section3 .container .sns .sec-container .sec-container-bottom .gap a img{width:100%;height:157px;}
+#wrap #main #section3 .container .sns .sec-container .sec-container-bottom .gap .wrap{width:100%;}
+#wrap #main #section3 .container .sns .sec-container .sec-container-bottom .gap .wrap .content{width:100%;}
+#wrap #main #section3 .container .sns .sec-container .sec-container-bottom .gap .wrap .content iframe{width:100%;height:155px;}
+
 
 #wrap #main #section3 .container .ad{width:400px;height:100%;float:left;padding:0 0 0 15px;}
 #wrap #main #section3 .container .ad .sec-container{width:100%;height:187px;}
