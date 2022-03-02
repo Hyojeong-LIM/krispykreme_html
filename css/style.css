@@ -520,3 +520,7 @@
     100%{transform:translate(0,0)}
 }
 .quick-menu a img{width:98px;height:178px;}
+
+/* 웹표준 */
+.validator {position:fixed;bottom:30px;left:30px;z-index:3;}
+.validator a{display:block;}
